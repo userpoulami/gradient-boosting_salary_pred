@@ -1,0 +1,9 @@
+The variables  contain only a few observations with NA (1.7,5.73,5.75 %), 
+#therefore, replacing those observations by random sampling the available labels is a good approach.
+
+
+find and drop duplicates and keep only first
+
+
+
+we need to convert this data into numerical notations that our ML model can understand using map
